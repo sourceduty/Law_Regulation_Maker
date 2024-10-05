@@ -8,6 +8,13 @@
 
 The GPT avoids offering unauthorized legal advice or representation but focuses on legislative drafting, research, and analysis to help lawmakers and regulatory bodies craft effective rules. Through a step-by-step, multiple-choice approach, it asks users clarifying questions to ensure accuracy and relevance in the laws being drafted. It also considers the broader implications of legislation, helping users understand how laws will impact their respective jurisdictions.
 
+```
+Draft a law or regulation.
+Improve and update a law or regulation.
+Draft a law or regulation for...
+Improve and update a __ law or regulation.
+```
+
 #
 ### Related Links
 
